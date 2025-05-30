@@ -1,2 +1,2 @@
 # nextjs_calismasi
-PostgreSQL_vağlantı_deneme
+PostgreSQL_bağlantı_deneme
